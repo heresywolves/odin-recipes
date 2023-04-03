@@ -1,0 +1,33 @@
+* {
+  font-family: "Trebuchet MS", sans-serif;
+  background-color: rgb(246,246,246);
+}
+
+.main {
+  text-align: center;
+}
+
+h1{
+  color: rgb(100,100,100);
+}
+
+h2, div.instructions{
+  color: rgb(80,80,80);
+}
+
+.recipe h1 {
+  text-align: center;
+}
+
+.intro, .desc{
+  color: rgb(150,150,150);
+}
+
+a {
+  color: red;
+  font-weight: 700;
+}
+
+div.instructions {
+  text-align: start;
+}
